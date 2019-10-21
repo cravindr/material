@@ -1,0 +1,26 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: Attract-01
+ * Date: 6/6/2018
+ * Time: 6:42 PM
+ */
+
+require_once ('common/html_open.php');
+
+require_once ('common/head_open.php');
+require_once ('common/meta.php');
+require_once ('dashbaord/dashbaord_link_css.php');
+require_once ('common/head_close.php');
+
+require_once ('common/body_open.php');
+require_once ('dashbaord/dashboard_main_container_open.php');
+require_once ('dashbaord/dashboard_header.php');
+require_once ('dashbaord/dashbaord_sidebar.php');
+require_once ('dashbaord/dashboard_main_container_close.php');
+require_once ('common/body_close.php');
+
+require_once ('dashbaord/dashbaord_link_js.php');
+
+require_once ('common/html_close.php');
+?>

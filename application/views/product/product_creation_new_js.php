@@ -1,0 +1,1 @@
+<script src="<?php echo base_url('assets/js/custom/product_creation.js'); ?>"></script>

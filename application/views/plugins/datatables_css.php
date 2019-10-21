@@ -1,0 +1,2 @@
+<link rel="stylesheet" href="<?php echo base_url('assets/plugins/DataTables/css/jquery.dataTables.css'); ?>">
+<link rel="stylesheet" href="<?php echo base_url('assets/plugins/DataTables/css/dataTables.bootstrap.min.css'); ?>">
